@@ -5,7 +5,7 @@ another_round = 1
 player1 = (input(f'Entry with the name of Player One, who gonna play with symbol x: '))
 player2 = (input(f'Entry with the name of Player Two, who gonna play with symbol o: '))
 
-while another_round != 0:  # Validates if players will want to play again
+while another_round != 0:  # Validates if players will want to play again.
 
     rd = Round()
 
